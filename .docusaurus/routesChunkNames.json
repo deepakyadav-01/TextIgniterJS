@@ -1,0 +1,100 @@
+{
+  "/TextIgniterJS/__docusaurus/debug-ad7": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    }
+  },
+  "/TextIgniterJS/__docusaurus/debug/config-570": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    }
+  },
+  "/TextIgniterJS/__docusaurus/debug/content-3cd": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    },
+    "__props": "__props---text-igniter-js-docusaurus-debug-contentd-89-547"
+  },
+  "/TextIgniterJS/__docusaurus/debug/globalData-846": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    }
+  },
+  "/TextIgniterJS/__docusaurus/debug/metadata-93c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    }
+  },
+  "/TextIgniterJS/__docusaurus/debug/registry-316": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    }
+  },
+  "/TextIgniterJS/__docusaurus/debug/routes-55d": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docusaurus-debugb-38-199"
+    }
+  },
+  "/TextIgniterJS/markdown-page-d18": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-markdown-pagea-74-012"
+    },
+    "content": "content---text-igniter-js-markdown-page-393-b87"
+  },
+  "/TextIgniterJS/docs-848": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-docsaba-940"
+    }
+  },
+  "/TextIgniterJS/docs-196": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---text-igniter-js-docs-6-bd-737"
+  },
+  "/TextIgniterJS/docs-6c5": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/TextIgniterJS/docs/angular-6d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-angular-48-f-01d"
+  },
+  "/TextIgniterJS/docs/contributing-fc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-contributing-4-d-5-e95"
+  },
+  "/TextIgniterJS/docs/installation-19c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-installation-3-b-8-7ec"
+  },
+  "/TextIgniterJS/docs/introduction-bee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-introductiona-09-f33"
+  },
+  "/TextIgniterJS/docs/javascript-fa2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-javascript-94-d-bab"
+  },
+  "/TextIgniterJS/docs/our-contributors-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-our-contributorsc-59-cb8"
+  },
+  "/TextIgniterJS/docs/react-344": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---text-igniter-js-docs-react-01-a-928"
+  },
+  "/TextIgniterJS/-246": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---text-igniter-js-markdown-pagea-74-012"
+    },
+    "config": "config---text-igniter-js-5-e-9-895"
+  }
+}

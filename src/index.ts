@@ -15,7 +15,7 @@ export interface NodeJson {
   children: (NodeJson | string)[];
 }
 
-class TextIgniter {
+export class TextIgniter {
   private editor: HTMLDivElement;
   private config: EditorConfig;
   private container!: HTMLDivElement;
